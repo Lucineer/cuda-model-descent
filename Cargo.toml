@@ -1,0 +1,5 @@
+[package]
+name = "cuda-model-descent"
+version = "0.1.0"
+edition = "2021"
+description = "Model descent — algorithms absorb intelligence over time, reducing inference cost"
